@@ -1,2 +1,2 @@
-from main import *
-appl = app.run()
+from main import app
+app.run()
